@@ -1,6 +1,6 @@
 {
     "name": "ghanem/rating",
-    "description": "Rating syetem for Laravel 5",
+    "description": "Rating system for Laravel 5",
     "keywords": ["rating", "Ratable", "laravel"],
     "license": "MIT",
     "authors": [
